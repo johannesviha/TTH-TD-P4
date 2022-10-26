@@ -1,3 +1,1 @@
-# webStyleGuide
-
-Fourth TeamTreeHouse Tech degree project.
+Web Style Guide - TeamTreeHouse Tech Degree Project 4
